@@ -1,80 +1,90 @@
 # 👨‍💻 Nahum Sanchez
-**Ingeniero en Sistemas | Consultor TI**  
-Freelance · Soluciones tecnológicas para PYMES y empresas locales
+### Ingeniero en Sistemas | Consultor TI  
+💼 Freelance · Soluciones tecnológicas para PYMES y empresas locales
 
 ---
 
 ## 👋 Sobre mí
-
-Soy Ingeniero en Sistemas y Consultor TI con experiencia en el desarrollo de **soluciones empresariales a medida**. Trabajo como freelance apoyando a microempresas, PYMES y empresas locales en la implementación de sistemas confiables, escalables y orientados a resultados.
-
-Mi enfoque va más allá del código: analizo procesos, identifico oportunidades de mejora y desarrollo soluciones tecnológicas alineadas al negocio.
+Ingeniero en Sistemas y Consultor TI con experiencia en el desarrollo de **soluciones empresariales a medida**.  
+Trabajo con microempresas, PYMES y empresas locales, enfocándome en **resolver problemas reales de negocio** mediante tecnología estable, escalable y mantenible.
 
 ---
 
 ## 🧠 Áreas de especialización
-
-- Desarrollo web (Frontend y Backend)
-- Sistemas empresariales
-- Consultoría TI
-- Soporte técnico especializado
-- Infraestructura y servidores
+- 🌐 Desarrollo Web (Frontend & Backend)
+- 🏢 Sistemas empresariales
+- 📊 Consultoría TI
+- 🛠️ Soporte técnico especializado
+- 🖥️ Infraestructura y servidores
 
 ---
 
 ## 🧩 Soluciones que desarrollo
-
-- Sistemas administrativos
-- Sistemas de inventarios
-- Gestión de activos TI
-- Aplicaciones internas para empresas
-- APIs y servicios backend
-- Plataformas internas personalizadas
+- 🗂️ Sistemas administrativos
+- 📦 Inventarios
+- 🧾 Gestión de activos TI
+- ⚙️ Aplicaciones internas empresariales
+- 🔌 APIs y servicios backend
+- 🧱 Plataformas internas personalizadas
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:**  
-PHP · C# · JavaScript · VB.NET
+### Lenguajes
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-**Frameworks / Librerías:**  
-Laravel · Angular · Bootstrap
+### Frameworks / Librerías
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Bases de datos:**  
-MySQL · PostgreSQL · SQL Server
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Sistemas y entornos:**  
-Linux · Windows Server · WSL
+### Sistemas y herramientas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Herramientas:**  
-Git · GitHub · Docker · Apache
+---
 
-**Nivel general:** Intermedio
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasc2k20&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasc2k20&layout=compact&theme=default" />
+</p>
 
 ---
 
 ## 💼 Servicios
-
 - Desarrollo de software a medida
-- Modernización de sistemas
 - Automatización de procesos
 - Implementación de sistemas empresariales
+- Modernización de aplicaciones
 - Consultoría y asesoría TI
 
 ---
 
 ## 📌 Proyectos
-
-Actualmente estoy documentando y preparando proyectos reales para publicarlos progresivamente en este perfil.  
-Muchos han sido desarrollados para entornos productivos bajo acuerdos de confidencialidad.
+Proyectos reales en proceso de documentación y publicación.  
+Muchos han sido desarrollados para empresas bajo acuerdos de confidencialidad.
 
 ---
 
 ## 📫 Contacto
-
-Puedes contactarme directamente a través de GitHub.
+📌 GitHub: https://github.com/nasc2k20
 
 ---
 
-*Perfil orientado a soluciones reales para empresas, no a proyectos académicos.*
+⭐ *Perfil orientado a soluciones empresariales reales, no a proyectos académicos.*
