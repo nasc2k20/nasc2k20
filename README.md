@@ -56,17 +56,6 @@ Trabajo con microempresas, PYMES y empresas locales, enfocándome en **resolver 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasc2k20&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasc2k20&layout=compact&theme=default" />
-</p>
-
----
-
 ## 💼 Servicios
 - Desarrollo de software a medida
 - Automatización de procesos
@@ -82,9 +71,18 @@ Muchos han sido desarrollados para empresas bajo acuerdos de confidencialidad.
 
 ---
 
-## 📫 Contacto
-📌 GitHub: https://github.com/nasc2k20
+## 🌐 Redes sociales y contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nasc2k12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasc2k12)
+[![YouTube](https://img.shields.io/badge/YouTube-@nasc2k12-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nasc2k12)
+[![Linktree](https://img.shields.io/badge/Linktree-nasc2k12-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/nasc2k12)
+[![GitHub](https://img.shields.io/badge/GitHub-Nasc2k20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasc2k20)
+[![GitLab](https://img.shields.io/badge/GitLab-Nasc2k20-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Nasc2k20)
+[![Email](https://img.shields.io/badge/Email-nasc2k12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasc2k12@gmail.com)
 
 ---
 
-⭐ *Perfil orientado a soluciones empresariales reales, no a proyectos académicos.*
+📍 **Disponibilidad:** Freelance  
+💼 **Enfoque:** Soluciones tecnológicas para PYMES y empresas locales  
+🤝 **Abierto a:** Proyectos, consultoría y colaboraciones profesionales
+
